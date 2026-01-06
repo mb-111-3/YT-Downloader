@@ -1,4 +1,4 @@
-const API = "https://yt-downloader-p1pj.onrender.com";
+const API = "http://127.0.0.1:5000";
 const bar = document.getElementById("bar");
 
 async function fetchInfo() {
