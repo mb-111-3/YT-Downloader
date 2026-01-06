@@ -21,10 +21,10 @@ Fetch video info, select quality, and download videos **locally** on your comput
 ## Screenshots
 
 ### Video Info Fetch
-![Video Info Screenshot](./images/output1.png)
+![Video Info Screenshot](./images/output1.PNG)
 
 ### Download Button & Quality Dropdown
-![Download Screenshot](./images/output2.png)
+![Download Screenshot](./images/output2.PNG)
 
 *(Replace these with your actual screenshots)*
 
