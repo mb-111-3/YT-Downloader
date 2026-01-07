@@ -61,7 +61,7 @@ YT-Downloader/
 
 ```bash
 git clone https://github.com/mb-111-3/YT-Downloader.git
-cd YT-Downloader/backend
+cd YT-Downloader/Backend
 ````
 
 2. **Create and activate a virtual environment:**
@@ -78,6 +78,7 @@ venv\Scripts\activate
 
 ```bash
 pip install flask flask-cors pytube
+pip install -r requirements.txt
 ```
 
 4. **Run the backend:**
@@ -88,7 +89,7 @@ python app.py
 
 * The backend will start at `http://127.0.0.1:5000`.
 
-5. **Open the frontend:**
+5. **Open the Frontend:**
 
 * Open `Frontend/index.html` in your browser.
 * Make sure the `API` variable in `script.js` is set to:
