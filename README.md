@@ -1,6 +1,8 @@
 
 # YouTube Downloader (Local)
 
+**Author:** Mayur Borse 
+
 A simple web-based YouTube video downloader with a **dark hacker theme**.  
 Fetch video info, select quality, and download videos **locally** on your computer.  
 
@@ -26,7 +28,6 @@ Fetch video info, select quality, and download videos **locally** on your comput
 ### Download Button & Quality Dropdown
 ![Download Screenshot](./Images/output2.PNG)
 
-*(Replace these with your actual screenshots)*
 
 ---
 
@@ -44,6 +45,10 @@ YT-Downloader/
 ├─ backend/
 │   └─ app.py
 │
+├─ images/
+│   ├─ output1.png
+│   └─ output2.png
+││
 └─ README.md
 
 ````
